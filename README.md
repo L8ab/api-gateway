@@ -1,2 +1,2 @@
 # api-gateway
-Professional api-gateway project by L8ab
+Professional api-gateway project by L8ab Systems
